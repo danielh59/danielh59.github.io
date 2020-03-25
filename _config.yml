@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Hoyte
-title: 
+title: Daniel Hoyte's Blog
 header-img: img/home-bg.png
 email: daniel.hoyte59@gmail.com
 copyright_name: Daniel Hoyte
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  danielh59
